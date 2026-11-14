@@ -364,7 +364,7 @@ namespace Pedal.MasterLoop
                             "Loops each section of the song a set number of times,\n" +
                             "then plays on into the next, by moving the song loop.\n\n" +
                             "thepedal\n" +
-                            "github.com/thepedal/pedal-master-loop\n" +
+                            "github.com/thepedal/pedal-loop-control\n" +
                             "GNU General Public License v3.0",
                             "About Pedal Master Loop")
                     }
